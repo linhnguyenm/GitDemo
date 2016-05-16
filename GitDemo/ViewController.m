@@ -47,4 +47,7 @@
     NSLog(@"New Function");
 }
 
+-(void)doSomething{
+    NSLog(@"Do something");
+}
 @end
