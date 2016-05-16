@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 
 @property (nonatomic, strong)NSString *someProperty;
+@property (nonatomic, strong)NSString *newProperty;
+
 @end
 
