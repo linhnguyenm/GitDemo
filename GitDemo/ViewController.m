@@ -42,4 +42,9 @@
     NSLog(@"Bibi");
 }
 
+//New function
+-(void)newFunction{
+    NSLog(@"New Function");
+}
+
 @end

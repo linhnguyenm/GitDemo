@@ -13,5 +13,7 @@
 @property (nonatomic, strong)NSString *someProperty;
 @property (nonatomic, strong)NSString *anewProperty;
 
+-(void)newFunction;
+
 @end
 
